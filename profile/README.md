@@ -2,9 +2,9 @@
   <a href="https://nenode.pages.dev">
     <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/334ef3fe-330d-4035-a60f-222b8e9f7c0c" />
   </a>
-  
-  ---
 </p>
+
+---
 
 <p align="center"><h1 align="center">Nenode AI</h1></p>
 
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/github/stars/nenode/nenode" />
   <img src="https://img.shields.io/github/forks/nenode/nenode" />
 </div>
+
+<br />
 
 <p align="center">
   <a href="https://nenode.pages.dev">
